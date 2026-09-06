@@ -1,0 +1,6 @@
+{
+  "name": "Gia Sư Thông Thái Tin Học 10",
+  "description": "Ứng dụng ôn tập thông minh môn Tin học 10 - Bài 2: Vai trò của thiết bị thông minh và Tin học đối với xã hội (SGK Kết nối tri thức). Giáo viên: Nguyễn Tấn Thắng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
